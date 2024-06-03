@@ -23,10 +23,12 @@ them into the format of the user story. This strategy of data acquisition helps 
 Following are steps to be followed:
 1. Create a Virtual Environment.
 2. Install Python 3.9, Pandas, and Tensorflow.
-3. Clone this project.
-4. Procure an OPENAI API Key.
-5. Paste the key in API_Key.txt file without any double/single quotes.
-6. Run the script - GPT4_goalmodel_generation.py
+3. PIP Install openai using the below command
+   *pip install openai*
+5. Clone this project.
+6. Procure an OPENAI API Key.
+7. Paste the key in API_Key.txt file without any double/single quotes.
+8. Run the script - GPT4_goalmodel_generation.py
 
 ## How to tweak this project for your own uses?
 Since this is a boilerplate version of the project, it has been tested only on User Stories as the input. I'd encourage you to clone and rename this project to test it on other forms of requirements.
