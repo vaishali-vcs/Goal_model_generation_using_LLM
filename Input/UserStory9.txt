@@ -1,0 +1,9 @@
+As a Counselor, I want to provide alternative counseling services
+So that I can contribute to the organization's goal of high-quality counseling.
+As a Counselor, I want to achieve my personal goals through counseling services, so that I can find fulfillment and effectiveness in my work.
+As a Counselor, I want to understand what high-quality counseling means for the organization, so that I can align my services with the organization's expectations.
+As a Kid or Youth, I want to depend on the organization for various counseling services (e.g., CyberCafe, Portal, ChatRoom), so that I can receive the help and support I need.
+As a Kid or Youth, I want to achieve my personal goals through the counseling services provided, so that I can improve my well-being and address my concerns.
+As an Organization, I want to provide high-quality counseling services, so that I can effectively support kids and youth.
+As an Organization, I want to support the counselors in achieving their goals, so that they can deliver the best possible counseling services.
+As an Organization, I want to recognize that high-quality counseling may mean different things to counselors and the organization, so that I can ensure alignment and understanding between all parties.
