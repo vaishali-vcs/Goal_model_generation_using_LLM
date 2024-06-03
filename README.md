@@ -23,7 +23,7 @@ them into the format of the user story. This strategy of data acquisition helps 
 Following are steps to be followed:
 1. Create a Virtual Environment.
 2. Install Python 3.9, Pandas, and Tensorflow.
-3. PIP Install openai using the below command \\
+3. PIP Install openai using the below command  <br />
    *pip install openai*
 5. Clone this project.
 6. Procure an OPENAI API Key.
