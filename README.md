@@ -1,7 +1,7 @@
 # Goal Model Extraction from User Stories Using Large Language Models
 
 This project consists of the code, the inputs, and outputs used in the paper titled "Goal Model Extraction from User Stories Using Large Language Models". 
-This paper presents early researchproposing a technique using Large Language Models (LLMs), like GPT-4, to automatically generate goal models from user stories. The approach
+This paper presents early research proposing a technique using Large Language Models (LLMs), like GPT-4, to automatically generate goal models from user stories. The approach
 employs Iterative Prompt Engineering to guide the LLM in extracting intentional elements and generating XML representations using the Goal-oriented Requirements Language (GRL), visualized with the jUCMNav tool.
 
 ## How to install?
