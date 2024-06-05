@@ -1,3 +1,0 @@
-As a user, I want to be able to view a map display of the public recycling bins around my area.
-As a user, I want to be able to view the safe disposal events currently being organised around my area.
-As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.

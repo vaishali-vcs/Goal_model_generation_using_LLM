@@ -1,8 +1,0 @@
-As an Organization, I want to achieve the soft goal of Helping Kids, so that I can fulfill my mission of supporting youth.
-As an Organization, I want to achieve the soft goal of Increasing Funds, so that I can sustain and expand my operations.
-As an Organization, I want to achieve the soft goal of providing High Quality Counseling, so that I can ensure effective and impactful support for kids.
-As an Organization, I want to achieve the hard goal of Providing Online Counseling Services, so that I can reach more kids and offer accessible support.
-As an Organization, I want to explore the alternative task of using Text Messaging for online counseling, so that I can evaluate its impact on my goals.
-As an Organization, I want to explore the alternative task of using CyberCafe/Portal/ChatRoom for online counseling, so that I can evaluate its impact on my goals.
-As an Organization, I want to understand how using Text Messaging impacts immediacy and high-quality counseling, so that I can make informed decisions about the best methods to use.
-As an Organization, I want to understand how using CyberCafe/Portal/ChatRoom impacts my various goals, so that I can choose the most effective method for providing online counseling services.

@@ -1,2 +1,0 @@
-As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.
-As a user, I want to be able to get the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-work hours.

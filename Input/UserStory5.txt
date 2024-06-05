@@ -1,5 +1,0 @@
-As a Patient, I want to be informed of my current status in the process, so that I know how long it will take to reach a specific step.
-As a Patient, I want to receive real-time information about my status and wait time, so that I am kept informed throughout my visit.
-As a Nurse, I want to register the patient to the Wait Time Estimation System (WTES), so that they can track their process in the system.
-As a Nurse, I want to give an access code to the patient, so that they can track their process in the system.
-As a Nurse, I want to set the current status and expected time in the WTES, so that patients receive accurate real-time information about their status and wait time.
