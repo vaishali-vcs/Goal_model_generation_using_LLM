@@ -5,12 +5,26 @@ This paper presents early research proposing a technique using Large Language Mo
 employs Iterative Prompt Engineering to guide the LLM in extracting intentional elements and generating XML representations using the Goal-oriented Requirements Language (GRL), visualized with the jUCMNav tool.
 
 ## Repository Structure
-1. 'Inputs' folder consists of the user stories that were used to evaluate the approach.
-2. 'Prompts' folder consists of the textual prompts used to generate responses.
-3. 'Outputs' folder consists of responses from GPT-4.
-4. 'API_Key.txt' file consists of the OPENAI License Key.
-5. 'GPT4_goalmodel_generation.py' consists of the driver code.
+1. GPT_Data folder is the root file for all th input and the output data. 
+2. 'GPT_Data/Input' folder consists of the user stories that were used to evaluate the approach.
+3. 'GPT_Data/Prompts' folder consists of the textual prompts used to generate responses.
+4. 'GPT_Data/Output' folder consists of responses from GPT-4.
+5. 'API_Key.txt' file consists of the OPENAI License Key.
+6. 'GPT4_goalmodel_generation.py' consists of the driver code.
 
+## Data Sources of User Stories
+| User Story File Name  | Reference|
+| --------------------- | ---------|
+| UserStory1.txt        | [1]      |
+| UserStory2.txt        | [2]      |
+| UserStory3.txt        | [2]      |
+| UserStory4.txt        | [2]      |
+| UserStory5.txt        | [3]      |
+| UserStory6.txt        | [4]      |
+| UserStory7.txt        | [5]      |
+| UserStory8.txt        | [6]      |
+| UserStory9.txt        | [6]      |
+| UserStory10.txt       | [6]      |
 ## Evaluation
 To evaluate our approach, ten GRL models were randomly selected from the literature, where these models are well-validated and commonly used within the realm of goal
 modeling literature. The first GRL model is related to the requirements of traffic simulator software and is found in [1]. Two GRL models of waste management software and one
