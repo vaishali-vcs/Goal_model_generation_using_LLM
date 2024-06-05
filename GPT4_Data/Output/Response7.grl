@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<grl-catalog catalog-name="URNspec" description="" author="vaish">
+    <element-def>
+        <intentional-element id="447" name="Boost sales" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="449" name="Offer online shopping experience" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="451" name="Ensure system security" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="453" name="Enhance terminal security" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="455" name="Implement access authorization" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="457" name="Authenticate users" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="459" name="Employ encryption measures" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="470" name="Terminal Security" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="472" name="Host Security" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="474" name="Access Authorization" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="476" name="Fingerprint Authentication" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="478" name="Password Authentication" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="480" name="Cardkey Authentication" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="482" name="Encryption Measures" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="484" name="Enhanced System Security" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="486" name="Online Shopping Experience" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="488" name="Boost Sales-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="502" name="Terminal Security-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="504" name="Access Authorization-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="506" name="Fingerprint Authentication-1" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="508" name="Password Authentication-1" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="510" name="Cardkey Authentication-1" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="512" name="System Security" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="514" name="Encryption Measures-1" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="526" name="Terminal Security-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="528" name="Access Authorization-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="530" name="Fingerprint Authentication-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="532" name="Password Authentication-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="534" name="Cardkey Authentication-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="536" name="Encryption Measures-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="538" name="System Security-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="540" name="Online Shopping Experience-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="542" name="Boost Sales-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="555" name="Terminal Security-3" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="557" name="Access Authorization-3" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="559" name="Fingerprint Authentication-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="561" name="Password Authentication-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="563" name="Cardkey Authentication-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="565" name="Encryption Measures-3" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="567" name="System Security-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="578" name="Boost sales-3" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="580" name="Online shopping experience-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="582" name="System security-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="584" name="Terminal security-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="586" name="Host security-1" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="588" name="Access authorization-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="590" name="Fingerprint authentication-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="592" name="Password authentication-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="594" name="Cardkey authentication-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="596" name="Encryption measures-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="611" name="Boost sales-4" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="613" name="Online shopping experience-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="615" name="System security-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="617" name="Terminal security-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="619" name="Host security-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="621" name="Access authorization-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="623" name="Fingerprint authentication-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="625" name="Password authentication-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="627" name="Cardkey authentication-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="629" name="Encryption measures-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="644" name="Boost sales-5" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="646" name="Offer online shopping experience-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="648" name="Ensure system security-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="650" name="Enhance terminal security-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="652" name="Implement access authorization-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="654" name="Authenticate users-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="656" name="Use fingerprint technique" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="658" name="Use password technique" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="660" name="Use cardkey technique" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="662" name="Employ encryption measures-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="664" name="Enhance overall system security" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="680" name="Boost sales-6" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="682" name="Offer online shopping experience-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="684" name="Ensure system security-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="686" name="Enhance terminal security-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="688" name="Implement access authorization-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="690" name="Authenticate users-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="692" name="Use fingerprint authentication" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="694" name="Use password authentication" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="696" name="Use cardkey authentication" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="698" name="Employ encryption measures-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="700" name="Enhance overall system security-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="716" name="Boost Sales-7" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="718" name="Online Shopping Experience-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="720" name="System Security-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="722" name="Terminal Security-6" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="724" name="Host Security-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="726" name="Access Authorization-6" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="728" name="Authentication Techniques" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="730" name="Fingerprint" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="732" name="Password" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="734" name="Cardkey" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="736" name="Encryption Measures-6" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="738" name="Overall System Security" description="" type="Softgoal" decompositiontype="And"/>
+    </element-def>
+    <link-def>
+        <contribution name="Contribution105" description="" srcid="457" destid="451" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="457" destid="453" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="457" destid="455"/>
+        <decomposition name="Decomposition114" description="" srcid="459" destid="455"/>
+        <dependency name="Dependency116" description="" dependerid="455" dependeeid="447"/>
+        <contribution name="Contribution105" description="" srcid="474" destid="470" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="474" destid="472" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="474" destid="476"/>
+        <decomposition name="Decomposition112" description="" srcid="474" destid="478"/>
+        <decomposition name="Decomposition113" description="" srcid="474" destid="480"/>
+        <contribution name="Contribution114" description="" srcid="482" destid="484" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution115" description="" srcid="484" destid="486" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution116" description="" srcid="486" destid="488" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution105" description="" srcid="506" destid="504" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="508" destid="504" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution107" description="" srcid="510" destid="504" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="502" destid="512"/>
+        <decomposition name="Decomposition114" description="" srcid="504" destid="512"/>
+        <decomposition name="Decomposition117" description="" srcid="514" destid="512"/>
+        <contribution name="Contribution105" description="" srcid="530" destid="528" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="532" destid="528" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution107" description="" srcid="534" destid="528" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="526" destid="538"/>
+        <decomposition name="Decomposition112" description="" srcid="528" destid="538"/>
+        <decomposition name="Decomposition113" description="" srcid="536" destid="538"/>
+        <decomposition name="Decomposition114" description="" srcid="540" destid="542"/>
+        <contribution name="Contribution105" description="" srcid="557" destid="555" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="559" destid="557" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution107" description="" srcid="561" destid="557" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution108" description="" srcid="563" destid="557" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution109" description="" srcid="565" destid="567" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution1" description="" srcid="578" destid="580" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="578" destid="582" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="582" destid="584" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="582" destid="586" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution5" description="" srcid="584" destid="588" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution6" description="" srcid="588" destid="590" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution7" description="" srcid="588" destid="592" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution8" description="" srcid="588" destid="594" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution9" description="" srcid="582" destid="596" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution1" description="" srcid="611" destid="613" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="611" destid="615" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="615" destid="617" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="615" destid="619" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution5" description="" srcid="617" destid="621" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution6" description="" srcid="621" destid="623" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution7" description="" srcid="621" destid="625" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution8" description="" srcid="621" destid="627" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution9" description="" srcid="615" destid="629" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition1" description="" srcid="644" destid="646"/>
+        <decomposition name="Decomposition2" description="" srcid="646" destid="648"/>
+        <decomposition name="Decomposition3" description="" srcid="648" destid="650"/>
+        <decomposition name="Decomposition4" description="" srcid="650" destid="652"/>
+        <decomposition name="Decomposition5" description="" srcid="652" destid="654"/>
+        <decomposition name="Decomposition6" description="" srcid="654" destid="656"/>
+        <decomposition name="Decomposition7" description="" srcid="654" destid="658"/>
+        <decomposition name="Decomposition8" description="" srcid="654" destid="660"/>
+        <decomposition name="Decomposition9" description="" srcid="652" destid="662"/>
+        <decomposition name="Decomposition10" description="" srcid="662" destid="664"/>
+        <decomposition name="Decomposition1" description="" srcid="680" destid="682"/>
+        <decomposition name="Decomposition2" description="" srcid="680" destid="684"/>
+        <decomposition name="Decomposition3" description="" srcid="684" destid="686"/>
+        <decomposition name="Decomposition4" description="" srcid="686" destid="688"/>
+        <decomposition name="Decomposition5" description="" srcid="688" destid="690"/>
+        <decomposition name="Decomposition6" description="" srcid="690" destid="692"/>
+        <decomposition name="Decomposition7" description="" srcid="690" destid="694"/>
+        <decomposition name="Decomposition8" description="" srcid="690" destid="696"/>
+        <decomposition name="Decomposition9" description="" srcid="684" destid="698"/>
+        <decomposition name="Decomposition10" description="" srcid="698" destid="700"/>
+        <contribution name="Contribution1" description="" srcid="716" destid="718" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="716" destid="720" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="720" destid="722" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="720" destid="724" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution5" description="" srcid="722" destid="726" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution6" description="" srcid="726" destid="728" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution7" description="" srcid="728" destid="730" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution8" description="" srcid="728" destid="732" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution9" description="" srcid="728" destid="734" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution10" description="" srcid="736" destid="738" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+    </link-def>
+    <actor-def>
+        <actor id="466" name="Business Owner" description=""/>
+        <actor id="498" name="Business Owner-1" description=""/>
+        <actor id="522" name="Business Owner-2" description=""/>
+        <actor id="551" name="Business Owner-3" description=""/>
+        <actor id="574" name="Business Owner-4" description=""/>
+        <actor id="607" name="Business owner-5" description=""/>
+        <actor id="640" name="Business owner-6" description=""/>
+        <actor id="676" name="Business Owner-7" description=""/>
+        <actor id="712" name="Business Owner-8" description=""/>
+        <actor id="750" name="Business Owner-9" description=""/>
+    </actor-def>
+    <actor-IE-link-def>
+        <actorContIE actor="466" ie="447"/>
+        <actorContIE actor="498" ie="470"/>
+        <actorContIE actor="498" ie="472"/>
+        <actorContIE actor="522" ie="504"/>
+        <actorContIE actor="551" ie="526"/>
+        <actorContIE actor="574" ie="555"/>
+        <actorContIE actor="607" ie="578"/>
+        <actorContIE actor="607" ie="580"/>
+        <actorContIE actor="640" ie="611"/>
+        <actorContIE actor="712" ie="680"/>
+    </actor-IE-link-def>
+</grl-catalog>

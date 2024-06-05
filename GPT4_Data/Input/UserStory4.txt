@@ -1,0 +1,3 @@
+As an executive, I want to have full access to data related to my company, so that I can have a sense of my company’s performance.
+As an employee from the HR department, I want to modify the data of the company.
+As an employee, I want to view the data of the company.

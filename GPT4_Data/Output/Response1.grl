@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<grl-catalog catalog-name="URNspec" description="" author="vaish">
+    <element-def>
+        <intentional-element id="12" name="Easy to Use" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="14" name="Car objects" description="" type="Ressource" decompositiontype="And"/>
+        <intentional-element id="16" name="Simple Design" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="18" name="Realistic simulation" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="20" name="Create new cars" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="22" name="Retain Existing Cars" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="24" name="Generate cars" description="" type="Goal" decompositiontype="Xor"/>
+        <intentional-element id="38" name="Manage Cars" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="46" name="Dependability" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="62" name="Run Simulation" description="" type="Task" decompositiontype="And"/>
+    </element-def>
+    <link-def>
+        <contribution name="Contribution54" description="" srcid="20" destid="24" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution56" description="" srcid="20" destid="18" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution58" description="" srcid="20" destid="16" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution59" description="" srcid="22" destid="18" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution60" description="" srcid="22" destid="24" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution68" description="" srcid="62" destid="12" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution69" description="" srcid="62" destid="38" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+    </link-def>
+    <actor-def>
+        <actor id="31" name="Simulation Engine" description=""/>
+    </actor-def>
+    <actor-IE-link-def>
+        <actorContIE actor="31" ie="14"/>
+        <actorContIE actor="31" ie="12"/>
+        <actorContIE actor="31" ie="46"/>
+        <actorContIE actor="31" ie="38"/>
+        <actorContIE actor="31" ie="62"/>
+        <actorContIE actor="31" ie="18"/>
+        <actorContIE actor="31" ie="24"/>
+        <actorContIE actor="31" ie="20"/>
+        <actorContIE actor="31" ie="16"/>
+        <actorContIE actor="31" ie="22"/>
+    </actor-IE-link-def>
+</grl-catalog>

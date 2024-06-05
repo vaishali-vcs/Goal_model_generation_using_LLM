@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<grl-catalog catalog-name="URNspec" description="" author="vaish">
+    <element-def>
+        <intentional-element id="155" name="Register patient" description="Process of registering a patient to WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="157" name="Give access code" description="Process of giving an access code to the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="159" name="Set current status" description="Process of setting the current status of the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="161" name="Set expected time" description="Process of setting the expected time for the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="163" name="Inform patient" description="Process of informing the patient about their status and wait time" type="Task" decompositiontype="And"/>
+        <intentional-element id="165" name="WTES" description="Wait Time Estimation System" type="Goal" decompositiontype="And"/>
+        <intentional-element id="167" name="Realtime information" description="Softgoal to provide patients with realtime information" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="169" name="Patient status" description="Softgoal to inform patients about their current status" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="171" name="Wait time" description="Softgoal to inform patients about their wait time" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="189" name="Register patient-1" description="Process of registering a patient to WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="191" name="Give access code-1" description="Process of giving an access code to the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="193" name="Set current status-1" description="Process of setting the current status of the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="195" name="Set expected time-1" description="Process of setting the expected time for the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="197" name="Inform patient-1" description="Process of informing the patient about their status and wait time" type="Task" decompositiontype="And"/>
+        <intentional-element id="199" name="WTES-1" description="Wait Time Estimation System" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="201" name="Realtime information-1" description="Goal to provide patients with realtime information" type="Goal" decompositiontype="And"/>
+        <intentional-element id="213" name="Register patient-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="215" name="Track process" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="217" name="Set current status-2" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="219" name="Set expected time-2" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="232" name="WTES-2" description="Wait Time Estimation System" type="Goal" decompositiontype="And"/>
+        <intentional-element id="234" name="Realtime Information-2" description="Provide patients with realtime information of their status and wait time" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="236" name="Patient Registration" description="Register patient to WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="238" name="Access Code Generation" description="Generate access code for the patient to track the process" type="Task" decompositiontype="And"/>
+        <intentional-element id="240" name="Status Update" description="Set the current status of the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="242" name="Expected Time Update" description="Set the expected time for the patient to reach a specific step" type="Task" decompositiontype="And"/>
+        <intentional-element id="258" name="Register patient-3" description="Process of registering a patient to WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="260" name="Give access code-2" description="Process of giving an access code to the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="262" name="Set current status-3" description="Process of setting the current status of the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="264" name="Set expected time-3" description="Process of setting the expected time for the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="266" name="Inform patient-2" description="Process of informing the patient about their status and wait time" type="Task" decompositiontype="And"/>
+        <intentional-element id="268" name="WTES-3" description="Wait Time Estimation System" type="Goal" decompositiontype="And"/>
+        <intentional-element id="270" name="Realtime information-3" description="Softgoal to provide patients with realtime information" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="286" name="Register patient-4" description="Process of registering a patient to WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="288" name="Give access code-3" description="Process of giving an access code to the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="290" name="Set current status-4" description="Process of setting the current status in WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="292" name="Set expected time-4" description="Process of setting the expected time in WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="294" name="Inform patient-3" description="Process of informing the patient about their status and wait time" type="Task" decompositiontype="And"/>
+        <intentional-element id="296" name="WTES-4" description="Wait Time Estimation System" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="298" name="Realtime information-4" description="Provide patients with realtime information of their status and wait time" type="Goal" decompositiontype="And"/>
+        <intentional-element id="314" name="WTES-5" description="Wait Time Estimation System" type="Goal" decompositiontype="And"/>
+        <intentional-element id="316" name="Realtime Information-5" description="Provide patients with realtime information of their status and wait time" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="318" name="Patient Registration-1" description="Register patient to WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="320" name="Access Code Generation-1" description="Generate access code for the patient to track the process" type="Task" decompositiontype="And"/>
+        <intentional-element id="322" name="Status Update-1" description="Set the current status of the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="324" name="Expected Time Update-1" description="Set the expected time for the patient to reach a specific step" type="Task" decompositiontype="And"/>
+        <intentional-element id="338" name="WTES-6" description="Wait Time Estimation System" type="Goal" decompositiontype="And"/>
+        <intentional-element id="340" name="Realtime Information-6" description="Provide patients with realtime information of their status and wait time" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="342" name="Patient Registration-2" description="Register patient to WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="344" name="Access Code Generation-2" description="Generate access code for the patient to track the process" type="Task" decompositiontype="And"/>
+        <intentional-element id="346" name="Status Setting" description="Set the current status of the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="348" name="Expected Time Setting" description="Set the expected time for the patient to reach a specific step" type="Task" decompositiontype="And"/>
+        <intentional-element id="366" name="WTES-7" description="Wait Time Estimation System" type="Goal" decompositiontype="And"/>
+        <intentional-element id="368" name="Realtime Information-7" description="Provide realtime information of patient status and wait time" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="370" name="Patient Registration-3" description="Register patient to WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="372" name="Access Code Generation-3" description="Generate access code for patient to track the process" type="Task" decompositiontype="And"/>
+        <intentional-element id="374" name="Status Update-2" description="Set the current status of the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="376" name="Expected Time Update-2" description="Set the expected time for the patient to reach a specific step" type="Task" decompositiontype="And"/>
+        <intentional-element id="390" name="Register patient-5" description="Process of registering a patient to WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="392" name="Give access code-4" description="Process of giving an access code to the patient" type="Task" decompositiontype="And"/>
+        <intentional-element id="394" name="Set current status-5" description="Process of setting the current status in WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="396" name="Set expected time-5" description="Process of setting the expected time in WTES" type="Task" decompositiontype="And"/>
+        <intentional-element id="398" name="Inform patient-4" description="Process of informing the patient about their status and wait time" type="Task" decompositiontype="And"/>
+        <intentional-element id="400" name="WTES-8" description="Wait Time Estimation System" type="Goal" decompositiontype="And"/>
+        <intentional-element id="402" name="Realtime information-8" description="Softgoal to provide patients with realtime information" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="404" name="Patient status-1" description="Softgoal to inform patients about their current status" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="406" name="Wait time-1" description="Softgoal to inform patients about their wait time" type="Softgoal" decompositiontype="And"/>
+    </element-def>
+    <link-def>
+        <contribution name="Contribution1" description="" srcid="155" destid="165" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="157" destid="165" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="159" destid="165" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="161" destid="165" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution5" description="" srcid="163" destid="165" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution6" description="" srcid="167" destid="165" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution7" description="" srcid="169" destid="165" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution8" description="" srcid="171" destid="165" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution1" description="" srcid="189" destid="199" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="191" destid="199" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="193" destid="199" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="195" destid="199" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution5" description="" srcid="197" destid="199" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution6" description="" srcid="199" destid="201" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition1" description="" srcid="213" destid="215"/>
+        <dependency name="Dependency1" description="" dependerid="215" dependeeid="217"/>
+        <dependency name="Dependency2" description="" dependerid="215" dependeeid="219"/>
+        <contribution name="Contribution1" description="" srcid="236" destid="234" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="238" destid="234" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="240" destid="234" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="242" destid="234" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition1" description="" srcid="232" destid="236"/>
+        <decomposition name="Decomposition2" description="" srcid="232" destid="238"/>
+        <decomposition name="Decomposition3" description="" srcid="232" destid="240"/>
+        <decomposition name="Decomposition4" description="" srcid="232" destid="242"/>
+        <contribution name="Contribution1" description="" srcid="258" destid="268" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="260" destid="268" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="262" destid="268" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="264" destid="268" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution5" description="" srcid="266" destid="268" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution6" description="" srcid="268" destid="270" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution1" description="" srcid="286" destid="296" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="288" destid="296" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="290" destid="296" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="292" destid="296" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution5" description="" srcid="294" destid="296" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution6" description="" srcid="296" destid="298" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution1" description="" srcid="318" destid="316" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="320" destid="316" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="322" destid="316" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="324" destid="316" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition1" description="" srcid="314" destid="318"/>
+        <decomposition name="Decomposition2" description="" srcid="314" destid="320"/>
+        <decomposition name="Decomposition3" description="" srcid="314" destid="322"/>
+        <decomposition name="Decomposition4" description="" srcid="314" destid="324"/>
+        <contribution name="Contribution1" description="" srcid="342" destid="340" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="344" destid="340" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="346" destid="340" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="348" destid="340" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition1" description="" srcid="338" destid="342"/>
+        <decomposition name="Decomposition2" description="" srcid="338" destid="344"/>
+        <decomposition name="Decomposition3" description="" srcid="338" destid="346"/>
+        <decomposition name="Decomposition4" description="" srcid="338" destid="348"/>
+        <contribution name="Contribution1" description="" srcid="370" destid="366" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="372" destid="366" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="374" destid="368" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="376" destid="368" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution1" description="" srcid="390" destid="400" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution2" description="" srcid="392" destid="400" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution3" description="" srcid="394" destid="400" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution4" description="" srcid="396" destid="400" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution5" description="" srcid="398" destid="400" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution6" description="" srcid="400" destid="402" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution7" description="" srcid="400" destid="404" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution8" description="" srcid="400" destid="406" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+    </link-def>
+    <actor-def>
+        <actor id="181" name="Montfort Hospital" description=""/>
+        <actor id="183" name="Patient" description=""/>
+        <actor id="185" name="Nurse" description=""/>
+        <actor id="209" name="Montfort Hospital-1" description=""/>
+        <actor id="224" name="Montfort Hospital-2" description=""/>
+        <actor id="226" name="Patient-1" description=""/>
+        <actor id="228" name="Nurse-1" description=""/>
+        <actor id="252" name="Montfort Hospital-3" description="The organization that wishes to implement the Wait Time Estimation System"/>
+        <actor id="254" name="Nurse-2" description="The person responsible for setting the current status and expected time for the patient"/>
+        <actor id="278" name="Montfort Hospital-4" description=""/>
+        <actor id="280" name="Patient-2" description=""/>
+        <actor id="282" name="Nurse-3" description=""/>
+        <actor id="306" name="Montfort Hospital-5" description=""/>
+        <actor id="308" name="Patient-3" description=""/>
+        <actor id="310" name="Nurse-4" description=""/>
+        <actor id="334" name="Montfort Hospital-6" description="The organization that wishes to implement the Wait Time Estimation System"/>
+        <actor id="358" name="Montfort Hospital-7" description=""/>
+        <actor id="360" name="Nurse-5" description=""/>
+        <actor id="362" name="Patient-4" description=""/>
+        <actor id="382" name="Montfort Hospital-8" description=""/>
+        <actor id="384" name="Patient-5" description=""/>
+        <actor id="386" name="Nurse-6" description=""/>
+        <actor id="416" name="Montfort Hospital-9" description=""/>
+        <actor id="418" name="Patient-6" description=""/>
+        <actor id="420" name="Nurse-7" description=""/>
+    </actor-def>
+    <actor-IE-link-def>
+        <actorContIE actor="181" ie="155"/>
+        <actorContIE actor="181" ie="165"/>
+        <actorContIE actor="209" ie="191"/>
+        <actorContIE actor="224" ie="215"/>
+        <actorContIE actor="252" ie="232"/>
+        <actorContIE actor="278" ie="258"/>
+        <actorContIE actor="306" ie="286"/>
+        <actorContIE actor="306" ie="288"/>
+        <actorContIE actor="382" ie="368"/>
+    </actor-IE-link-def>
+</grl-catalog>

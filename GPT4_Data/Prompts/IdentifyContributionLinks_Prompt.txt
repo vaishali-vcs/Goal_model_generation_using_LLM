@@ -1,0 +1,4 @@
+In this step you will identify contribution relationships in the model.
+The CONTRIBUTION relationship statement describes how softgoals, task, believes, or links contribute to others. A contribution is an effect that is a primary desire during modelling
+For the goal model that you generated in the first response, refine the goal model by adding Contributions relationship.
+Remember that your response must be in the format delimited by triple back ticks.

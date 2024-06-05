@@ -1,0 +1,5 @@
+In this step you have to identify Decomposition Links. Graphically, a decomposition link connects a node with its sub-components.
+It provide the ability to define what other elements need to be achieved or available in order for a task to perform.
+A Task Decomposition Structure shows the essential components of a task, which include subtasks that must be performed, subgoals that must be achieved, resources that must be accessible, and softgoals that must be satisfied.
+For the goal model that you generated in the first response, refine the goal model by adding Decomposition relationships.
+Remember that your response must be in the format delimited by triple back ticks.

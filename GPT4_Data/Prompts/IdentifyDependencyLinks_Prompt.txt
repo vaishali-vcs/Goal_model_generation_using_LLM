@@ -1,0 +1,4 @@
+In this step you will identify depenccy links in the goal model.
+The Dependency link describes an intentional relationship between two actors, i.e., one actor or Depender depends on another actor or Dependee on something.
+For the goal model that you generated in the first response, refine the goal model by adding Dependency relationships.
+Remember that your response must be in the format delimited by triple back ticks.

@@ -1,0 +1,5 @@
+In this step you will identify both the implicit and explicit goals.
+Each user story contains a critical element called goals. The goal represents the desired outcome or benefits the user wants, highlighting their needs and motivations.
+There are two kinds of goals. Behavioral goals describe intended behavior of a system, and Soft-Goals are often related to non-functional requirements.
+For the user stories, first list all the goals, soft-goals and resources needed to achieve them as a bulleted list. Then refine the goal model that you generated in the first response.
+Remember that your response must be in the format delimited by triple back ticks.

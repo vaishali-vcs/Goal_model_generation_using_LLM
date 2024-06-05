@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<grl-catalog catalog-name="URNspec" description="" author="vaish">
+    <element-def>
+        <intentional-element id="1263" name="View map display of public recycling bins" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="1265" name="View safe disposal events" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="1267" name="View all locations of recycling centers on a map" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="1269" name="Check routes to drop off waste" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="1277" name="View map display of public recycling bins-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="1279" name="View safe disposal events-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="1281" name="View all locations of recycling centers on a map-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="1283" name="Check routes to drop off waste-1" description="" type="Goal" decompositiontype="And"/>
+    </element-def>
+    <link-def>
+        <decomposition name="Decomposition111" description="" srcid="1263" destid="1267"/>
+        <decomposition name="Decomposition112" description="" srcid="1263" destid="1269"/>
+        <contribution name="Contribution105" description="" srcid="1277" destid="1279" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="1277" destid="1281" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution107" description="" srcid="1277" destid="1283" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+    </link-def>
+    <actor-def>
+        <actor id="1273" name="User" description=""/>
+        <actor id="1288" name="User-1" description=""/>
+    </actor-def>
+    <actor-IE-link-def>
+        <actorContIE actor="1273" ie="1263"/>
+        <actorContIE actor="1288" ie="1277"/>
+    </actor-IE-link-def>
+</grl-catalog>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<grl-catalog catalog-name="URNspec" description="" author="vaish">
+    <element-def>
+        <intentional-element id="238" name="Optimize hardware utilization" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="240" name="Achieve high performance" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="242" name="Achieve high throughput" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="244" name="Minimize infrastructure alterations" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="246" name="Achieve high performance at low cost" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="256" name="Hardware Utilization" description="Optimizing hardware utilization to its fullest extent" type="Goal" decompositiontype="And"/>
+        <intentional-element id="258" name="High Performance" description="Achieving high performance" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="260" name="Low Cost" description="Achieving low cost" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="262" name="High Throughput" description="Achieving high throughput" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="264" name="Minimize Infrastructure Alterations-1" description="Minimizing infrastructure alterations" type="Goal" decompositiontype="And"/>
+        <intentional-element id="274" name="Hardware Utilization-1" description="Optimizing hardware utilization to its fullest extent" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="276" name="High Performance-1" description="Achieving high performance" type="Goal" decompositiontype="And"/>
+        <intentional-element id="278" name="Low Cost-1" description="Ensuring low costs" type="Goal" decompositiontype="And"/>
+        <intentional-element id="280" name="High Throughput-1" description="Achieving high throughput" type="Goal" decompositiontype="And"/>
+        <intentional-element id="282" name="Infrastructure Alterations" description="Minimizing infrastructure alterations" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="291" name="Hardware Utilization-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="293" name="High Performance-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="295" name="Low Cost-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="297" name="High Throughput-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="299" name="Minimize Infrastructure Alterations-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="301" name="Optimize Hardware Utilization-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="303" name="Achieve High Throughput-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="314" name="Hardware Utilization-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="316" name="High Performance-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="318" name="Low Cost-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="320" name="High Throughput-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="322" name="Minimize Infrastructure Alterations-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="324" name="Optimize Hardware Utilization-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="326" name="Achieve High Throughput-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="337" name="Hardware Utilization-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="339" name="High Performance-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="341" name="Low Cost-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="343" name="High Throughput-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="345" name="Minimize Infrastructure Alterations-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="347" name="Optimize Hardware Utilization-3" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="349" name="Achieve High Throughput-3" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="360" name="Hardware Utilization-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="362" name="High Performance-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="364" name="Low Cost-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="366" name="High Throughput-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="368" name="Minimize Infrastructure Alterations-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="370" name="Optimize Hardware Utilization-4" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="372" name="Achieve High Throughput-4" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="383" name="Optimize hardware utilization-5" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="385" name="Achieve high performance-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="387" name="Achieve high throughput-5" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="389" name="Minimize infrastructure alterations-6" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="391" name="Achieve high performance at low cost-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="401" name="Hardware Utilization-6" description="Optimizing hardware utilization to its fullest extent" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="403" name="High Performance-6" description="Achieving high performance" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="405" name="Low Cost-6" description="Ensuring low costs" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="407" name="High Throughput-6" description="Achieving high throughput" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="409" name="Infrastructure Alterations-1" description="Minimizing infrastructure alterations" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="411" name="Optimize Hardware Utilization-6" description="Optimizing hardware utilization to its fullest extent" type="Goal" decompositiontype="And"/>
+        <intentional-element id="413" name="Achieve High Throughput-6" description="Achieving high throughput" type="Goal" decompositiontype="And"/>
+        <intentional-element id="424" name="Hardware Utilization-7" description="Optimizing hardware utilization to its fullest extent" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="426" name="High Performance-7" description="Achieving high performance" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="428" name="Low Cost-7" description="Ensuring low costs" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="430" name="High Throughput-7" description="Achieving high throughput" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="432" name="Infrastructure Alterations-2" description="Minimizing infrastructure alterations" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="434" name="Optimize Hardware Utilization-7" description="Optimizing hardware utilization to its fullest extent" type="Goal" decompositiontype="And"/>
+        <intentional-element id="436" name="Achieve High Throughput-7" description="Achieving high throughput" type="Goal" decompositiontype="And"/>
+    </element-def>
+    <link-def>
+        <contribution name="Contribution105" description="" srcid="238" destid="246" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="240" destid="246" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution107" description="" srcid="242" destid="246" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution108" description="" srcid="244" destid="246" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution105" description="" srcid="256" destid="258" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="256" destid="260" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution107" description="" srcid="256" destid="262" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution108" description="" srcid="256" destid="264" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution105" description="" srcid="276" destid="278" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="276" destid="280" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="278" destid="282"/>
+        <contribution name="Contribution105" description="" srcid="301" destid="295" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="301" destid="297" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="301" destid="299"/>
+        <decomposition name="Decomposition114" description="" srcid="303" destid="299"/>
+        <dependency name="Dependency116" description="" dependerid="299" dependeeid="291"/>
+        <contribution name="Contribution105" description="" srcid="324" destid="318" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="324" destid="320" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="324" destid="322"/>
+        <decomposition name="Decomposition114" description="" srcid="326" destid="322"/>
+        <dependency name="Dependency116" description="" dependerid="322" dependeeid="314"/>
+        <contribution name="Contribution105" description="" srcid="347" destid="341" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="347" destid="343" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="347" destid="345"/>
+        <decomposition name="Decomposition114" description="" srcid="349" destid="345"/>
+        <dependency name="Dependency116" description="" dependerid="345" dependeeid="337"/>
+        <contribution name="Contribution105" description="" srcid="370" destid="364" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="370" destid="366" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="370" destid="368"/>
+        <decomposition name="Decomposition114" description="" srcid="372" destid="368"/>
+        <dependency name="Dependency116" description="" dependerid="368" dependeeid="360"/>
+        <contribution name="Contribution105" description="" srcid="383" destid="391" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="385" destid="391" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution107" description="" srcid="387" destid="391" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution108" description="" srcid="389" destid="391" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution105" description="" srcid="411" destid="405" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="411" destid="407" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="411" destid="409"/>
+        <decomposition name="Decomposition114" description="" srcid="413" destid="409"/>
+        <dependency name="Dependency116" description="" dependerid="409" dependeeid="401"/>
+        <contribution name="Contribution105" description="" srcid="434" destid="428" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="434" destid="430" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="434" destid="432"/>
+        <decomposition name="Decomposition114" description="" srcid="436" destid="432"/>
+        <dependency name="Dependency116" description="" dependerid="432" dependeeid="424"/>
+    </link-def>
+    <actor-def>
+        <actor id="252" name="Wireless Telephony Company" description=""/>
+        <actor id="270" name="Wireless Telephony Company-1" description=""/>
+        <actor id="287" name="Wireless Telephony Company-2" description=""/>
+        <actor id="310" name="Wireless Telephony Company-3" description=""/>
+        <actor id="333" name="Wireless Telephony Company-4" description=""/>
+        <actor id="356" name="Wireless Telephony Company-5" description=""/>
+        <actor id="379" name="Wireless Telephony Company-6" description=""/>
+        <actor id="397" name="Wireless Telephony Company-7" description=""/>
+        <actor id="420" name="Wireless Telephony Company-8" description=""/>
+        <actor id="443" name="Wireless Telephony Company-9" description=""/>
+    </actor-def>
+    <actor-IE-link-def>
+        <actorContIE actor="252" ie="240"/>
+        <actorContIE actor="270" ie="256"/>
+        <actorContIE actor="287" ie="274"/>
+        <actorContIE actor="310" ie="291"/>
+        <actorContIE actor="333" ie="314"/>
+        <actorContIE actor="356" ie="337"/>
+        <actorContIE actor="379" ie="360"/>
+        <actorContIE actor="397" ie="383"/>
+        <actorContIE actor="420" ie="401"/>
+        <actorContIE actor="420" ie="403"/>
+        <actorContIE actor="443" ie="426"/>
+    </actor-IE-link-def>
+</grl-catalog>

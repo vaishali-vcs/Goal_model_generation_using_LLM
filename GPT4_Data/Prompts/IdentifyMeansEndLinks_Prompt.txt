@@ -1,0 +1,6 @@
+ In thi step you should identify all Means-End relationships.
+ MEANS-END relationship to describe how goals are achieved. Each task that you identified in the previous step, is an alternative means for achieving the goal.
+Caution: only goals are originally applicable to means-ends link.
+ Graphically, a means-ends link connects an end node with the means node achieving it.
+ For the goal model that you generated in the first response, refine the goal model by adding MEANS-END relationship.
+ Remember that your response must be in the format delimited by triple back ticks.

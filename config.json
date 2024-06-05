@@ -1,0 +1,8 @@
+{
+    "OPEN_AI_KEY":"",
+    "BASE_DIRECTORY":".",
+    "PROMPTS_DIRECTORY": "GPT4_Data/Prompts",
+    "OUTPUT_DIRECTORY": "GPT4_Data/Output",
+    "INPUT_DIRECTORY": "GPT4_Data/Input",
+    "LLM_MODEL": "GPT-4"
+}

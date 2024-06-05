@@ -1,0 +1,4 @@
+Every user story contains actors in it with specific roles and responsibilities.
+Actors generally correspond to the users who are going to use the system. Each actor of a user story has a role associated with it. The role refers to the position, responsibility of that actor within that scene.
+For the user stories, first list all the actors as a bulleted list. Then refine the goal model that you generated in the first response.
+Remember that your response must be in the format delimited by triple back ticks.

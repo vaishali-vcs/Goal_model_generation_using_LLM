@@ -1,0 +1,3 @@
+ In this step you have to decompose high-level goals into alternative solutions called tasks.
+ Go back to the goal model that you generated in the first response. Refine the goal model by adding new tasks.
+ Remember that your response must be in the format delimited by triple back ticks.

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<grl-catalog catalog-name="URNspec" description="" author="vaish">
+    <element-def>
+        <intentional-element id="26" name="Company data access" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="28" name="Easy data modification" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="30" name="Realistic data simulation" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="32" name="Simple data design" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="34" name="Data viewing" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="36" name="Data modification" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="38" name="Data viewing-1" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="49" name="Company data access-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="51" name="Easy data modification-1" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="53" name="Realistic data simulation-1" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="55" name="Simple data design-1" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="57" name="Data viewing-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="59" name="Data modification-1" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="61" name="Data viewing-3" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="72" name="Company data access-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="74" name="Easy data modification-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="76" name="Realistic data simulation-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="78" name="Simple data design-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="80" name="Data viewing-4" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="82" name="Data modification-2" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="84" name="Data viewing-5" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="95" name="Company data access-3" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="97" name="Easy data modification-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="99" name="Real-time data view" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="101" name="Data performance sense" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="103" name="Data modification-3" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="105" name="Data view" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="114" name="Company data access-4" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="116" name="Easy data modification-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="118" name="Real-time data view-1" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="120" name="Data performance sense-1" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="122" name="Data modification-4" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="124" name="Data view-1" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="133" name="Company data access-5" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="135" name="Easy data modification-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="137" name="Real-time data view-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="139" name="Data performance sense-2" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="141" name="Data modification-5" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="143" name="Data view-2" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="152" name="Company data access-6" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="154" name="Easy data modification-6" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="156" name="Realistic data simulation-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="158" name="Simple data design-3" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="160" name="Data viewing-6" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="162" name="Data modification-6" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="164" name="Data viewing-7" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="175" name="Company data access-7" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="177" name="Easy data modification-7" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="179" name="Realistic data simulation-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="181" name="Simple data design-4" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="183" name="Data viewing-8" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="185" name="Data modification-7" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="187" name="Data viewing-9" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="198" name="Company data access-8" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="200" name="Easy data modification-8" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="202" name="Realistic data simulation-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="204" name="Simple data design-5" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="206" name="Data viewing-10" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="208" name="Data modification-8" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="210" name="Data viewing-11" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="221" name="Company data access-9" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="223" name="Full access to data" description="" type="Softgoal" decompositiontype="And"/>
+        <intentional-element id="225" name="Modify company data" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="227" name="View company data" description="" type="Task" decompositiontype="And"/>
+    </element-def>
+    <link-def>
+        <contribution name="Contribution105" description="" srcid="36" destid="30" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="36" destid="32" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="36" destid="34"/>
+        <decomposition name="Decomposition114" description="" srcid="38" destid="34"/>
+        <dependency name="Dependency116" description="" dependerid="34" dependeeid="26"/>
+        <contribution name="Contribution105" description="" srcid="59" destid="53" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="59" destid="55" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="59" destid="57"/>
+        <decomposition name="Decomposition114" description="" srcid="61" destid="57"/>
+        <dependency name="Dependency116" description="" dependerid="57" dependeeid="49"/>
+        <contribution name="Contribution105" description="" srcid="82" destid="76" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="82" destid="78" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="82" destid="80"/>
+        <decomposition name="Decomposition114" description="" srcid="84" destid="80"/>
+        <dependency name="Dependency116" description="" dependerid="80" dependeeid="72"/>
+        <contribution name="Contribution105" description="" srcid="105" destid="99" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="105" destid="101" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="105" destid="103"/>
+        <contribution name="Contribution105" description="" srcid="124" destid="118" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="124" destid="120" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="124" destid="122"/>
+        <contribution name="Contribution105" description="" srcid="143" destid="137" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="143" destid="139" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="143" destid="141"/>
+        <contribution name="Contribution105" description="" srcid="162" destid="156" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="162" destid="158" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="162" destid="160"/>
+        <decomposition name="Decomposition114" description="" srcid="164" destid="160"/>
+        <dependency name="Dependency116" description="" dependerid="160" dependeeid="152"/>
+        <contribution name="Contribution105" description="" srcid="185" destid="179" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="185" destid="181" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="185" destid="183"/>
+        <decomposition name="Decomposition114" description="" srcid="187" destid="183"/>
+        <dependency name="Dependency116" description="" dependerid="183" dependeeid="175"/>
+        <contribution name="Contribution105" description="" srcid="208" destid="202" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="208" destid="204" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="208" destid="206"/>
+        <decomposition name="Decomposition114" description="" srcid="210" destid="206"/>
+        <dependency name="Dependency116" description="" dependerid="206" dependeeid="198"/>
+        <contribution name="Contribution105" description="" srcid="225" destid="223" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <contribution name="Contribution106" description="" srcid="227" destid="223" contributiontype="Unknown" quantitativeContribution="0" correlation="false"/>
+        <decomposition name="Decomposition111" description="" srcid="221" destid="223"/>
+        <decomposition name="Decomposition114" description="" srcid="225" destid="221"/>
+        <decomposition name="Decomposition115" description="" srcid="227" destid="221"/>
+    </link-def>
+    <actor-def>
+        <actor id="45" name="Executive" description=""/>
+        <actor id="68" name="Executive-1" description=""/>
+        <actor id="91" name="Executive-2" description=""/>
+        <actor id="110" name="Executive-3" description=""/>
+        <actor id="129" name="Executive-4" description=""/>
+        <actor id="148" name="Executive-5" description=""/>
+        <actor id="171" name="Executive-6" description=""/>
+        <actor id="194" name="Executive-7" description=""/>
+        <actor id="217" name="Executive-8" description=""/>
+        <actor id="234" name="Executive-9" description=""/>
+    </actor-def>
+    <actor-IE-link-def>
+        <actorContIE actor="45" ie="34"/>
+        <actorContIE actor="68" ie="49"/>
+        <actorContIE actor="110" ie="95"/>
+        <actorContIE actor="129" ie="114"/>
+        <actorContIE actor="148" ie="133"/>
+        <actorContIE actor="171" ie="152"/>
+        <actorContIE actor="217" ie="198"/>
+    </actor-IE-link-def>
+</grl-catalog>
