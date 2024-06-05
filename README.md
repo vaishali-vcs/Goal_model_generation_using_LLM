@@ -9,8 +9,9 @@ employs Iterative Prompt Engineering to guide the LLM in extracting intentional 
 2. 'GPT_Data/Input' folder consists of the user stories that were used to evaluate the approach.
 3. 'GPT_Data/Prompts' folder consists of the textual prompts used to generate responses.
 4. 'GPT_Data/Output' folder consists of responses from GPT-4.
-5. 'API_Key.txt' file consists of the OPENAI License Key.
-6. 'GPT4_goalmodel_generation.py' consists of the driver code.
+5. 'utils.py' file consists of helper code for loading user stories and saving the LLM responses.
+6. 'config.json' file has the configuration strings. Place your OPENAI License Key here. 
+7. 'GPT4_goalmodel_generation.py' consists of the driver code.
 
 ## Data Sources of User Stories
 | User Story File Name  | Reference|
