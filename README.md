@@ -52,10 +52,10 @@ If you found an issue or would like to submit an improvement to this project, pl
 
 ## References
 [1] M. van Zee, F. Bex, and S. Ghanavati, “Rationalgrl: A framework for argumentation and goal modeling,” Argument & Computation, vol. 12,
-pp. 191–245, 2021.
-[2] T. Gunes and F. B. Aydemir, “Automated goal model extraction from user stories using nlp,” pp. 382–387, 2020.
+pp. 191–245, 2021. </br>
+[2] T. Gunes and F. B. Aydemir, “Automated goal model extraction from user stories using nlp,” pp. 382–387, 2020. </br>
 [3] M. Baslyman, B. Almoaber, D. Amyot, and E. M. Bouattane, “Activitybased process integration in healthcare with the user requirements
-notation,” 05 2017, pp. 151–169.
-[4] D. Amyot, “Introduction to the user requirements notation: learning by example,” Computer Networks, vol. 42, no. 3, pp. 285–301, 2003.
-[5] G. v. Bochmann, “Goal modeling and grl,” https://www.site.uottawa.ca/∼bochmann/SEG3101/Notes/SEG3101-ch3-5%20-%20Goal%20modeling%20-%20GRL.pdf, 2009, accessed: 2023–12-06.
+notation,” 05 2017, pp. 151–169. </br>
+[4] D. Amyot, “Introduction to the user requirements notation: learning by example,” Computer Networks, vol. 42, no. 3, pp. 285–301, 2003. </br>
+[5] G. v. Bochmann, “Goal modeling and grl,” https://www.site.uottawa.ca/∼bochmann/SEG3101/Notes/SEG3101-ch3-5%20-%20Goal%20modeling%20-%20GRL.pdf, 2009, accessed: 2023–12-06. </br>
 [6] J. Horkoff and E. Yu, “Interactive goal model analysis for early requirements engineering,” Requirements Engineering, vol. 21, no. 1, pp. 29–61, 2016. [Online]. Available: https://doi.org/10.1007/s00766-014-0209-8
