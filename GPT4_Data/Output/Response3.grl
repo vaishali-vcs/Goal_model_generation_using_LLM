@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<grl-catalog catalog-name="URNspec" description="" author="vaish">
+    <element-def>
+        <intentional-element id="1277" name="View map display of public recycling bins-1" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="1291" name="Get the hours of each recycling facility" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="1295" name="Arrange drop-offs" description="" type="Goal" decompositiontype="And"/>
+        <intentional-element id="1313" name="View safe disposal events" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="1315" name="Check routes to drop off waste" description="" type="Task" decompositiontype="And"/>
+        <intentional-element id="1317" name="View all locations of recycling centers on a map" description="" type="Task" decompositiontype="And"/>
+    </element-def>
+    <link-def>
+        <decomposition name="Decomposition1329" description="" srcid="1277" destid="1317"/>
+        <decomposition name="Decomposition1331" description="" srcid="1277" destid="1315"/>
+        <decomposition name="Decomposition1332" description="" srcid="1277" destid="1313"/>
+        <contribution name="Contribution1334" description="" srcid="1291" destid="1295" contributiontype="Help" quantitativeContribution="25" correlation="false"/>
+    </link-def>
+    <actor-def>
+        <actor id="1288" name="User-1" description=""/>
+    </actor-def>
+    <actor-IE-link-def>
+        <actorContIE actor="1288" ie="1277"/>
+    </actor-IE-link-def>
+</grl-catalog>
